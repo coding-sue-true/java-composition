@@ -3,6 +3,8 @@
 ### This example
 - The PC has a case, has a motherboard, has a monitor
 
+- Font: https://www.adobe.com/devnet/actionscript/learning/oop-concepts/composition-and-aggregation.html
+
 # Composition
 - Composition is about expressing relationships between objects. Think about the chair example. A chair has a Seat. A chair has a back. And a chair has a set of legs. The phrase "has a" implies a relationship where the chair owns, or at minimum, uses, another object. It is this "has a" relationship which is the basis for composition.
 
